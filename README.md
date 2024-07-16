@@ -1,3 +1,5 @@
 # Resume-Projects
 
-This repository contains work from my research position at LASP as well as several projects I completed during my undergraduate degree for various classes.
+Collection of relevant projects. Please read txt files attached to each filder to learn more. 
+
+Contact me at joeybroz@gmail.com for questions
