@@ -1,2 +1,55 @@
 
-This lab guides students through the process of creating a color-magnitude diagram (similar to the Hertzsprung-Russell diagram) using data from the Gaia Data Release 2 (DR2) catalog. The aim is to analyze different populations of stars in the Milky Way by visualizing their absolute magnitudes against their color indices. Students download and process real astronomical data, perform calculations to convert observed measurements to more meaningful quantities, and ultimately produce and interpret a plot that reveals various stellar properties and classifications.
+In this project, I created a color-magnitude diagram using Gaia DR2 data, allowing me to classify and analyze stellar populations in the Milky Way.
+
+Objectives:
+- Create a color-magnitude diagram using Gaia DR2 data.
+- Analyze and classify stellar populations.
+- Apply astrophysical principles to real data.
+- Practice data filtering and visualization techniques.
+- Interpret stellar characteristics and distributions.
+
+Part 1: Read in the Data
+- Downloaded Gaia DR2 data and imported it into a pandas DataFrame.
+
+Part 2: Inspect Data
+- Check the imported data by viewing column names and some sample values to ensure it matches the Gaia documentation.
+
+Part 3: Filter the Data
+- Create a new DataFrame with relevant columns (parallax, parallax over error, photometric flux, and color index).
+- Remove rows with missing values in these columns.
+
+Part 4: Calculate Photometric Color
+- Extract the color index from the filtered DataFrame and store it in a separate variable.
+
+Part 5: Calculate Distances and Absolute Magnitudes
+- Compute distances to stars using the parallax values from the Gaia data.
+- Convert parallax measurements to distances in parsecs.
+- Transform the apparent magnitudes of stars to absolute magnitudes using the distance modulus formula.
+
+Part 7: Signal-to-Noise Cut
+- Filter the data to keep only stars with a parallax over error ratio greater than 4.0 for accuracy.
+- Use a boolean index to select "good" data points.
+
+Part 8: Create Color-Magnitude Diagram
+- Plot the color-magnitude diagram with color index on the x-axis and absolute magnitude on the y-axis.
+- Reverse the y-axis to have brighter stars at the top.
+
+a. Peer Review
+- Compared plots with peers and noted any differences or similarities.
+b. Axis Interpretation
+- Explained what the x- and y-axes represented in terms of stellar properties (color and absolute magnitude).
+- Identified the locations of the hottest and brightest stars.
+c. Stellar Radius
+- Infered stellar radii based on the diagram and temperature definitions.
+- Identified where the largest and smallest stars are located on the diagram.
+d. Stellar Populations
+- Identified different populations of stars (main sequence, giants, supergiants, white dwarfs).
+- Discussed which populations contain the most stars and their significance.
+
+
+
+
+
+
+
+
