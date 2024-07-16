@@ -1,0 +1,39 @@
+
+In this project, we analyzed the optical spectra of a mystery object to estimate its physical properties and infer its nature by comparing it to known stellar characteristics.
+
+Objectives:
+- Analyze optical spectra to identify key spectral lines.
+- Estimate the physical properties of the mystery object, such as velocity, temperature, and luminosity.
+- Apply astrophysical principles to interpret the data.
+- Compare the object's characteristics to known stellar properties.
+- Infer the potential nature and origin of the mystery object.
+
+Part 1: Read and Plot the Spectra Data
+- Load and plot the spectrum data for one of the three mystery objects using the provided file.
+
+Part 2: Identify Balmer Series Lines
+- Identifed and marked the Balmer series H lines (Hα, Hβ, Hγ, Hδ) on the spectrum plot.
+- Recorded the observed wavelength positions for these lines.
+
+Part 3: Estimate Line Width as Velocity
+- Estimated the line width for the Hα line and convert this width into velocity units (km/s) using the Doppler effect equation.
+
+Part 4: Determine Line Broadening Mechanisms
+- Analyzed the line shape and width to hypothesize about the relevant physical line broadening mechanisms (pressure, thermal, or velocity broadening).
+- Explained why Doppler broadening might be the dominant mechanism based on the observed spectrum.
+
+Part 5: Estimate Surface Temperature Using Wien’s Law
+- Used Wien’s displacement law to estimate the surface temperature of the object.
+
+Part 6: Calculate Bolometric Luminosity
+- Using the object's distance we estimated its bolometric luminosity.
+- Calculatde the flux density at the peak wavelength and used it to determine the total luminosity.
+
+Part 7: Estimate Radius of the Object
+- Using the calculated luminosity and effective temperature, we estimated the object's radius.
+- Applied the formula relating luminosity, temperature, and radius to find the radius in appropriate units.
+
+Part 8: Interpret the Results
+- Compared the derived properties of the object (luminosity, temperature, radius) to those of known stars, such as the Sun.
+- Discussed whether the object could be a star or something else, based on the comparison.
+- Suggested a possible identity for the mystery object, considering its characteristics and location (e.g., high luminosity, cooler temperature, and high velocity).
