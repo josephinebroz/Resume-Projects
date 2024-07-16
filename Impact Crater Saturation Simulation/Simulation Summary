@@ -1,0 +1,42 @@
+
+In this project, we simulated the formation of impact craters on a planetary surface, analyzing crater saturation over time and exploring the effects of different 
+assumptions on the simulation results.
+
+Objectives:
+- Simulate the formation of impact craters for 2 regions on a 500 km x 500 km fsurface on Mars.
+- Determine crater saturation and analyze how changing assumptions affects the simulation.
+- Visualize the simulation with plots and animations.
+- Provide a well-commented source code.
+
+Criteria:
+
+Part 1: Simulate Impacts on the Surface
+- Simulate impacts resulting in craters larger than 10 km in diameter until the surface is saturated or longer.
+- Assume one impact every 1000 years, and account for early craters being obliterated by later impacts.
+- Ignore effects such as erosion and secondary craters.
+
+Things to Note:
+
+Size Distribution of Impactors: Decide whether to use a single size or a range of sizes for impactors.
+Size of Obliterated Region: Determine the area of the surface obliterated by an impact.
+Recognizable Crater: Define criteria for a crater to be recognizable on the surface.
+Saturation Determination: Establish how to determine when the surface is saturated with craters.
+
+Tasks:
+
+(a) State Assumptions: Clearly state all assumptions made during the simulation.
+(b) Plot Pictures and Create Animation: Plot "pictures" of the area at 1% intervals and create a 10-second animation. Work in 2D. Submit a video file or YouTube link.
+(c) Plot Number of Craters vs. Time: Plot the number of craters evident on the surface as a function of time and indicate the time to saturation.
+(d) Narrative Description: Provide a narrative description of the plots in (b) and (c), explaining why they look the way they do.
+
+Part 2: Modify an Assumption and Re-run the Simulation
+- Change one assumption (e.g., adding a realistic size-frequency distribution) and re-run the simulation.
+
+Tasks:
+
+(a) Repeat 1b: Repeat the plotting and animation for the modified assumption.
+(b) Repeat 1c: Repeat the plot of the number of craters vs. time for the modified assumption.
+(c) Describe Changes: Describe how and why the results changed, supporting the explanation with plots or calculations.
+
+Part 3: Submit Source Code
+- Submit Well-Commented Source Code: Provide a copy of the well-commented and constructed source code used for the simulation.
