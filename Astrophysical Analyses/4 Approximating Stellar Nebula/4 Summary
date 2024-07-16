@@ -1,0 +1,35 @@
+
+In this project, we explored the physics of photoionized regions around newly formed stars or white dwarfs, focusing on calculating the Strömgren radius, analyzing 
+nebular spectra, and comparing theoretical models with numerical calculations.
+
+Objectives:
+- Understand the formation and properties of Strömgren spheres in photoionized regions.
+- Calculate the Strömgren radius for ionized hydrogen and helium zones.
+- Compare theoretical predictions with numerical results from the Cloudy code.
+- Analyze the differences between incident stellar spectra and observed nebular spectra.
+
+Part 1: Strömgren Sphere of Ionized Gas Surrounding a Massive Star
+a. Total Ionization Rate: Determined the total ionization rate inside the Strömgren sphere is Q* as all ionizing photons are absorbed.
+b. Total Recombination Rate: Calculated the total recombination rate within the Strömgren sphere per unit volume.
+
+Part 2: Typical Size of a Photoionized Nebula
+- Calculated the ionizing photon rate for a star with given effective temperature and radius.
+- Determined the Strömgren radius in cm and compare it to the size of the star and the width of a Galactic spiral arm.
+
+Part 3: Thickness of the Transition from Ionized to Neutral
+- Estimated the thickness of the boundary where gas transitions from fully ionized to neutral using the mean free path of an ionizing photon.
+- Compared the mean free path with the Strömgren radius to assess the sharpness of the transition.
+
+Part 4: Relative Size of Hydrogen and Helium Ionization Zones
+- Calculated the ratio of the radius of helium to hydrogen ionization zones.
+- Used the Strömgren sphere model to find this ratio based on ionizing photon rates and composition parameters.
+
+Part 5: Comparison to Numerical Calculation with Cloudy Code
+- Compared the calculated Strömgren radius with the Cloudy code output, which tracks ionization states and temperatures in the nebula.
+- Plotted the ionization fractions for hydrogen and helium, and compared these with the theoretical Strömgren radius values.
+- Assessed the accuracy of the Strömgren sphere assumption based on the fractional error compared to Cloudy results.
+
+Part 6: Nebular Spectrum
+- Compared the incident stellar spectrum with the observed spectrum from the entire nebula.
+- Analyzed the differences, noting the reduction in high-energy flux in the observed spectrum.
+- Explained that the energy from the star is absorbed and re-emitted by the ionized gas in the nebula, distorting the received flux.
