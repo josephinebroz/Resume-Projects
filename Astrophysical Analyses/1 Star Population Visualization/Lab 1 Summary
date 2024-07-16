@@ -1,1 +1,2 @@
 
+This lab guides students through the process of creating a color-magnitude diagram (similar to the Hertzsprung-Russell diagram) using data from the Gaia Data Release 2 (DR2) catalog. The aim is to analyze different populations of stars in the Milky Way by visualizing their absolute magnitudes against their color indices. Students download and process real astronomical data, perform calculations to convert observed measurements to more meaningful quantities, and ultimately produce and interpret a plot that reveals various stellar properties and classifications.
