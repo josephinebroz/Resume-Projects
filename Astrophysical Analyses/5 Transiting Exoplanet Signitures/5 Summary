@@ -1,0 +1,42 @@
+
+In this project, we used data from the TESS mission to detect and characterize an exoplanet via the transit method, analyzing light curves, calculating the planet's
+radius, semi-major axis, mass, and comparing its properties to those in the Solar System.
+
+Objectives:
+- Detect and characterize exoplanets using the transit method with real TESS data.
+- Identify transit signatures in the light curve and measure their depth and duration.
+- Calculate the radius, semi-major axis, and mass of the exoplanet.
+- Compare the properties of the exoplanet to those of planets in the Solar System.
+
+Part 1: Sample TESS Transit Light Curve
+- Load the TESS data and identify the variable representing the flux of the star over time.
+- Plot the light curve using the chosen flux variable to visualize the star's brightness variations.
+
+Part 2: Identify and Mark Transit Signatures
+- Identified promising transit signals (periodic drops in brightness) in the light curve by eye.
+- Marked the first transit time, the period, and the depth of the signal on the light curve plot.
+
+Part 3: Transit Duration and Depth
+- Zoomed in on one of the transits to measure its duration and depth.
+- Estimated the duration from the start to the end of the transit and the depth from the peak to the valley in the light curve.
+
+Part 4: The Radius of the Exoplanet
+- Derived the equation for the radius of the exoplanet based on the depth of the transit and the radius of the host star.
+- Calculated the radius of the planet in Earth radii using the depth of the transit and the stellar radius from the FITS file header.
+
+Part 5: Transit Duration and Orbital Semi-Major Axis
+- Used the measured transit duration and period to solve for the semi-major axis of the planet's orbit.
+- Applied Kepler's 3rd law to calculate the total mass of the system in solar masses, assuming an edge-on inclination.
+
+Part 6: Planet Mass from the Radial Velocity
+- Calculated the mass of the planet using radial velocity measurements and the binary mass function.
+- Expressed the planet's mass in Earth masses and compare it to the mass of known planets.
+
+Part 7: Daytime Temperature
+- Estimated the daytime temperature of the planet based on the effective temperature of the star and the incident starlight.
+- Compared the calculated daytime temperature of the planet to that of Earth.
+
+Part 8: Characterize the Star-Exoplanet System
+- Compared the properties of the detected exoplanet (radius, mass, orbital location) to those of planets in the Solar System.
+- Identified the planet in the Solar System that the exoplanet is most similar to in terms of radius and mass.
+- Discussed the likely classification of the exoplanet, such as a "hot Jupiter," based on its properties.
