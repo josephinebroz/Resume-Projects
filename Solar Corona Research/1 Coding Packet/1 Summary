@@ -1,1 +1,45 @@
 
+This coding packet introduces Python programming and basic data analysis techniques using Google Colaboratory, culminating in an analysis of lunar crater data.
+
+Objectives:
+- Learn Python programming basics.
+- Utilize Google Colaboratory for coding and data analysis.
+- Analyze lunar crater data to understand the relationship between crater diameter and frequency.
+- Practice data visualization and statistical analysis.
+
+Part 1: Formatting Text in Colab using "Markdown" Cells
+- Learn basic text formatting in Colab using Markdown for documentation.
+
+Part 2: Creating and Running a "Code" Cell
+- Introduction to creating, editing, and running Python code cells in Colab.
+
+Part 3: Writing Readable Code and Commenting
+- Emphasize writing readable and well-documented code with comments.
+
+Part 4: Indexing with Lists
+- Cover the fundamentals of Python lists, including creating, accessing elements, and slicing.
+
+Part 5: Using Built-in Python Functions
+- Introduction to useful built-in Python functions for efficient data analysis.
+
+Part 6: Using Functions from Python Libraries
+- Utilize external libraries like numpy and pyplot for advanced data manipulation and visualization.
+
+Part 7: Working with Dataframes
+- Introduction to the pandas library and dataframes for handling and analyzing tabular data.
+
+Part 8: Advanced Plotting
+- Focus on advanced plotting techniques, including log-log plots for visualizing complex data relationships.
+
+Part 9: Finding the Relationship between Lunar Crater Diameter and Frequency, Part 1
+- Create and interpret histograms to understand data distributions and frequencies.
+
+Part 10: Finding the Relationship between Lunar Crater Diameter and Frequency, Part 2
+- Conduct power law fitting and statistical analysis to determine the relationship between crater diameter and frequency.
+
+
+
+
+
+
+
