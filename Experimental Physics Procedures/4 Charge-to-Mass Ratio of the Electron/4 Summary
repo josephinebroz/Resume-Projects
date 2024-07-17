@@ -1,1 +1,32 @@
 
+This experiment aimed to calculate the charge-to-mass ratio of an electron using an e/m tube by manipulating the current and measuring the resulting electron beam
+deflection.
+
+Objectives:
+- Calculate the charge-to-mass ratio of the electron.
+- Use an e/m tube to measure beam deflection.
+- Analyze systematic and random errors in the experiment.
+
+Part 1: Introduction
+- Calculated the charge-to-mass ratio of an electron using an e/m tube.
+
+Part 2: Experimental Procedure
+- Set up the e/m apparatus and aligned it with the compass.
+- Adjusted power supplies and recorded currents at different voltages.
+- Measured current values for various crossbar positions.
+
+Part 3: Results
+- Calculated average current values and subtracted baseline current.
+- Used measurements and constants to compute e/m values.
+- Averaged e/m values and compared with accepted value.
+
+Part 4: Data Analysis
+- Analyzed measurements and calculated standard deviation for random errors.
+- Evaluated systematic uncertainties including voltmeter and meter stick accuracy.
+
+Part 5: Discussion and Conclusion
+- Concluded that the experimental e/m value (1.76 x 10^11 C/kg) agreed with the accepted value.
+- Identified and discussed sources of error and their impact on results.
+
+Appendix
+- Included scanned sheets from the lab notebook for detailed reference.
