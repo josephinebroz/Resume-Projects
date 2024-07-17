@@ -1,6 +1,6 @@
 
-This packet guides the analysis of a chosen solar flare from the Space Weather Data Portal to calculate the flare's total energy using Python and data analysis 
-techniques in Python.
+This packet guides the analysis of a solar flare chosen by Heather Lewindowsky from the Space Weather Data Portal to calculate the flare's total energy using Python
+data analysis techniques.
 
 Objectives:
 - Select and describe a solar flare for analysis.
