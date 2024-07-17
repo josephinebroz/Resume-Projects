@@ -1,1 +1,34 @@
 
+This experiment aimed to measure the wavelength of light from a He-Ne laser and the index of refraction of air using a Michelson interferometer. All analysis done
+in Wolfram Mathematica.
+
+Objectives:
+- Measure the wavelength of the He-Ne laser.
+- Calculate the index of refraction of air.
+- Analyze sources of error and uncertainties in the experiment.
+
+Part 1: Introduction
+- Observed and calculated different wavelengths and the refraction index of air using an He-Ne laser.
+
+Part 2: Experimental Procedure
+- Utilized an interferometer with an He-Ne laser to measure wavelengths by observing constructive and destructive interference.
+- Conducted experiments with the sodium doublet to measure wavelength changes.
+- Measured the index of refraction of air using a vacuum cell.
+
+Part 3: Results
+- Calculated the wavelength of the He-Ne laser (6390 ± 70 angstroms).
+- Measured the sodium doublet wavelength (7.11 ± 0.9 angstroms).
+- Determined the index of refraction of air (1.00023 ± 0.00005).
+
+Part 4: Discussion and Conclusion
+- Discussed agreement of measured values with accepted values and identified sources of error, including fringe visibility and human error.
+- Concluded that the experiment provided values close to accepted standards with identified uncertainties.
+
+Appendix
+- Included scanned lab notebook sheets for detailed reference.
+
+
+
+
+
+
