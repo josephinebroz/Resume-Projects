@@ -1,1 +1,25 @@
 
+This packet introduces the process of determining the total energy of the X8.2-class solar flare that occurred on September 10th, 2017, using Python programming 
+and data analysis techniques in Python.
+
+Objectives:
+- Import and preprocess solar flare data.
+- Perform baseline correction for accurate energy measurements.
+- Integrate power as a function of time to find total flare energy.
+- Document the process using markdown cells and comments.
+
+Part 1: Data Import and Preprocessing
+- Import XRS longwave data of the X8.2-class solar flare.
+- Convert units of irradiance and time for analysis.
+
+Part 2: Plotting the Solar Flare Data
+- Plot solar flare data as energy per second versus time.
+
+Part 3: Baseline Correction
+- Determine the baseline correction for the solar flare data.
+
+Part 4: Plotting with Baseline Correction
+- Plot data with baseline removed to highlight the flare's energy.
+
+Part 5: Integration to Find Total Energy
+- Integrate the power as a function of time to find the total energy.
