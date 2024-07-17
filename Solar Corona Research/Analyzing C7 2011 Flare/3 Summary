@@ -1,0 +1,29 @@
+
+This packet guides the analysis of a chosen solar flare from the Space Weather Data Portal to calculate the flare's total energy using Python and data analysis 
+techniques in Python.
+
+Objectives:
+- Select and describe a solar flare for analysis.
+- Import and preprocess flare data.
+- Perform baseline correction to isolate flare energy.
+- Integrate power as a function of time to determine total energy.
+- Document the process with markdown cells and comments.
+
+Part 1: Flare Selection and Description
+- Find assigned flare on the Space Weather Data Portal.
+- Provided a description and unique name for the flare.
+- Downloaded flare data as a CSV file.
+
+Part 2: Data Import and Preprocessing
+- Imported the flare data using pandas.
+- Converted units of irradiance and time for analysis.
+
+Part 3: Plotting the Solar Flare Data
+- Plotted solar flare data as energy per second versus time to visualize the flare.
+
+Part 4: Baseline Correction
+- Determined and subtract the baseline level of x-rays to isolate the flare's energy.
+
+Part 5: Integration to Find Total Energy
+- Integrated the power as a function of time to find the total energy.
+- Used the integrate.trapz() function for accurate integration.
