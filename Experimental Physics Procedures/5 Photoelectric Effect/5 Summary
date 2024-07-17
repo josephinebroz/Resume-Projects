@@ -1,1 +1,29 @@
 
+This experiment aimed to demonstrate the photoelectric effect and calculate Planck's constant by measuring the relationship between stopping voltage and frequency
+of incident light. Performed in Mathematica
+
+Objectives:
+- Demonstrate the photoelectric effect.
+- Measure the stopping voltage for various wavelengths.
+- Calculate Planck's constant using the measured data.
+- Analyze sources of error and uncertainty in measurements.
+
+Part 1: Introduction
+- Demonstrated the photoelectric effect by observing electrons escaping from a metal when hit by light.
+- Calculated Planck's constant by measuring the cutoff voltage and multiplying it by the electron charge.
+
+Part 2: Experimental Procedure
+- Used a mercury lamp and photo tube to measure dark current, stopping voltage, and photo current.
+- Collected data for various wavelengths and aperture sizes.
+
+Part 3: Results
+- Recorded relationships between dark current and voltage, stopping voltage and frequency, and photo current and incident light.
+- Calculated Planck's constant from the experimental data.
+
+Part 4: Data Analysis
+- Performed calculations and statistical analysis to determine Planck's constant.
+- Analyzed sources of error including equipment stability and measurement uncertainties.
+
+Part 5: Discussion and Conclusion
+- Confirmed the calculated value of Planck's constant (1.3617 × 10^-30 m^2kgs^-1) was in agreement with the accepted value.
+- Identified sources of error and their impact on the results.
