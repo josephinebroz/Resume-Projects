@@ -1,1 +1,33 @@
 
+This lab aimed to find Planck's constant using the emission spectra from the Balmer series of Hydrogen, involving spectrometer alignment, angular measurements, and
+wavelength calculations.
+
+Objectives:
+- Use a spectrometer to observe emission spectra.
+- Measure angular positions of spectral lines.
+- Calculate wavelengths and use them to determine Planck's constant.
+- Analyze sources of error and uncertainty in measurements.
+
+Part 1: Introduction
+- Found Planck’s constant using the emission spectra from the Balmer series of Hydrogen.
+- Observed emission spectra of Mercury, Hydrogen, and Helium using a spectrometer.
+
+Part 2: Experimental Procedure
+- Aligned and focused the spectrometer facing the Mercury lamp.
+- Turned the lamp on, positioned the magnifying lens, and observed emission lines.
+- Recorded angular measurements for each emission line.
+
+Part 3: Results
+- Measured and recorded angular positions for spectral lines of Mercury, Hydrogen, and Helium.
+- Converted angular measurements to wavelengths and calculated Planck's constant.
+
+Part 4: Data Analysis
+- Performed calculations and statistical analysis to estimate Planck's constant.
+- Analyzed systematic uncertainties and potential sources of error.
+
+Part 5: Discussion and Conclusion
+- Discussed deviations from the accepted value of Planck's constant and the impact of experimental errors.
+- Concluded that while the calculated value was not accurate, the experiment provided insights into measurement techniques and error analysis.
+
+
+Included scanned sheets from the lab notebook and additional data analysis using Wolfram Mathematica.
