@@ -1,1 +1,28 @@
 
+This experiment aimed to demonstrate the existence of Bohr atomic energy levels by observing energy losses of electrons colliding with argon atoms and calculating
+Planck's constant from the first excitation potential of argon. Performed in Mathematica
+
+Objectives:
+- Demonstrate Bohr atomic energy levels.
+- Measure excitation potentials using a Frank-Hertz apparatus.
+- Calculate Planck's constant from experimental data.
+- Analyze systematic and random errors in measurements.
+Part 1: Introduction
+- Demonstrated Bohr atomic energy levels by observing electron energy losses in argon.
+
+Part 2: Experimental Procedure
+- Used a Frank-Hertz apparatus and oscilloscope to plot current vs grid voltage.
+- Adjusted apparatus settings and recorded data for voltage ranging from 0 to 90 volts.
+
+Part 3: Results
+- Calculated the mean of excitation values (10.9271 V).
+- Determined Planck's constant (6.2166 × 10^-34 J/s) from experimental data.
+- Compared the calculated value with the accepted value (6.626 × 10^-34 J/s).
+
+Part 4: Data Analysis
+- Performed uncertainty propagation and calculated systematic and random errors.
+- Identified sources of error including differences in data reading and knob adjustments.
+
+Part 5: Conclusion
+- Confirmed the calculated Planck's constant closely agreed with the accepted value.
+- Gained insights into the energy levels of electrons in argon and the existence of Bohr atomic energy levels.
