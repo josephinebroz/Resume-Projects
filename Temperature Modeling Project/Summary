@@ -1,1 +1,26 @@
 
+This project models the temperature inside a building, accounting for external temperature, internal heat sources, and artificial heating and cooling using differential equations and related concepts in MATLAB.
+
+Objectives:
+- Model the temperature dynamics within a building.
+- Apply differential equations and related mathematical concepts.
+- Analyze the impact of various factors on indoor temperature.
+- Ensure equipment safety by maintaining temperature within specified limits.
+
+Part 1: Introduction
+- Modeled the temperature inside a building considering various factors such as outside temperature, internal heat sources, and artificial climate control.
+
+Part 2: Beginning Analysis
+- Utilized Newton’s Law of Cooling and differential equations to model the temperature dynamics.
+- Derived a general solution using the integrating factor method.
+
+Part 3: Refining Model
+- Modeled the temperature considering varying outside conditions and internal factors.
+- Analyzed temperature behavior under different scenarios and equilibrium solutions.
+
+Part 4: Putting it Together
+- Integrated various factors to create a comprehensive model.
+- Ensured the temperature remained within safe limits to prevent equipment damage.
+
+Part 5: Conclusion
+- Summarized findings and highlighted the importance of maintaining appropriate indoor temperature to prevent damage to equipment.
